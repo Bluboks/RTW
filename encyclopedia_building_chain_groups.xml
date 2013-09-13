@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="encyclopedia_building_chain_groups_localised_name_provincial_capital">Provincial Capital</string>
+<string name="encyclopedia_building_chain_groups_localised_name_industrial">Industrial</string>
+<string name="encyclopedia_building_chain_groups_localised_name_city_centre">City Centre</string>
+<string name="encyclopedia_building_chain_groups_localised_name_sanitation">Sanitation</string>
+<string name="encyclopedia_building_chain_groups_localised_name_military">Military</string>
+<string name="encyclopedia_building_chain_groups_localised_name_minor_settlement">Minor Settlement</string>
+<string name="encyclopedia_building_chain_groups_localised_name_religious">Religious</string>
+<string name="encyclopedia_building_chain_groups_localised_name_agricultural">Agricultural</string>
+<string name="encyclopedia_building_chain_groups_localised_name_port">Port</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

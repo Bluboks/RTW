@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="town_wealth_growth_factors_positive_tooltip_events">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_ministers">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_education">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_industry">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_technologies">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_port">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_global_food">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_government">text_rejected</string>
+<string name="town_wealth_growth_factors_positive_tooltip_roads">text_rejected</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

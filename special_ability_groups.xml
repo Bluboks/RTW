@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="special_ability_groups_name_Warmonger">name</string>
+<string name="special_ability_groups_name_Commander">name</string>
+<string name="special_ability_groups_tooltip_Commander">"Commander||The strength of this general's character informs the quality of his leadership, making it easier for his men to follow him into battle.||Abilities:
+ - ""Rally""
+ - ""Raise Banner"""</string>
+<string name="special_ability_groups_tooltip_Warmonger">"Warrior||This general's own example on the battlefield inspires his men: he gets stuck in and takes no prisoners!||Abilities:
+ - ""War Cry""
+ - ""The Fear"""</string>
+<string name="special_ability_groups_name_Strategist">name</string>
+<string name="special_ability_groups_tooltip_Strategist">"Strategist||A strategic expert, this man decides when and where to fight, knowing how to manipulate events to his best advantage.||Abilities:
+ - ""Second Wind""
+ - ""Battle Rhythm"""</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="faction_groups_description_localised_rom_faction_group_punic">[DO NOT LOCALISE]</string>
+<string name="faction_groups_description_localised_rom_faction_group_greek">"Most of the Greek states were ""polises"", cities with surrounding villages. The world-renowned culture of the Greeks relies on the toil of farmers, the skills of merchants and soldiers, and the wits of philosophers. Epirus lacks a single central city, but it is Greek through and through."</string>
+<string name="faction_groups_name_localised_rom_faction_group_daco_thracian">Daco-Thracian Tribes</string>
+<string name="faction_groups_name_localised_rom_faction_group_celtiberian">Celtiberian Tribes</string>
+<string name="faction_groups_description_localised_rom_faction_group_daco_thracian">[DO NOT LOCALISE]</string>
+<string name="faction_groups_description_localised_rom_faction_group_celtic">[DO NOT LOCALISE]</string>
+<string name="faction_groups_name_localised_rom_faction_group_greek">Greek States</string>
+<string name="faction_groups_description_localised_rom_faction_group_celtiberian">[DO NOT LOCALISE]</string>
+<string name="faction_groups_description_localised_rom_faction_group_gallic">These Celts are an influential, vigorous people: their migration has taken them to the shores of the Mediterranean; they have invaded Macedon, Illyria, Thrace and Asia Minor; they have sacked Rome. But they are not just a warrior culture. Gauls are master craftsmen too.</string>
+<string name="faction_groups_name_localised_rom_faction_group_rome">Rome</string>
+<string name="faction_groups_name_localised_rom_faction_group_punic">Punic Colonies</string>
+<string name="faction_groups_description_localised_rom_faction_group_rome">"Rome will rule the world. It is her destiny and always has been. 
+
+Claiming a line of descent back to the Hercules, Romans are not lacking in pride. Romans are not lacking in fierceness: their city was founded by Romulus and Remus, twins raised by a wolf. Roman armies may have been beaten, but they have always dragged themselves back into any fight, and battled on. 
+
+And now, surrounded by rivals and potential enemies, Rome faces challenges at every turn. He who rules in Rome can rule the world, but only through the glory of conquest!"</string>
+<string name="faction_groups_name_localised_rom_faction_group_successors">Successor Kingdoms</string>
+<string name="faction_groups_name_localised_rom_faction_group_celtic">Celtic Tribes</string>
+<string name="faction_groups_name_localised_rom_faction_group_gallic">Gallic Tribes</string>
+<string name="faction_groups_description_localised_rom_faction_group_germanic">"The Germanic tribes are fearless warriors, entirely at home in their dark and forbidding forests, worshipping dark, forbidding gods. Their name, in Latin, is a Gallic borrowing, ""ger"" and ""mani"" meaning near-men or neighbours. They are not given to acting in a neighbourly fashion: they will take from the weak, and value their independence above all."</string>
+<string name="faction_groups_description_localised_rom_faction_group_etruscan">[DO NOT LOCALISE]</string>
+<string name="faction_groups_description_localised_rom_faction_group_carthage">"Carthage or “New Town” was once a Phoenician trading colony. It is now a trading and maritime empire in its own right. Such are the blessings of Ba’al Hammon to his followers. 
+
+The Carthaginians are a devout, hard-working people who have spent generations struggling to control the trade of the Western Mediterranean. This has inevitably brought them into conflict with expanding Greek colonies and with the upstart Romans. Traders they may be by choice, but they have become warriors through necessity, and very good warriors at that. Through astute use of mercenaries they have turned their silver into swords."</string>
+<string name="faction_groups_name_localised_rom_faction_group_etruscan">Etruria</string>
+<string name="faction_groups_description_localised_rom_faction_group_eastern">"Based on the remnants of Babylonian, Assyrian and Median empires, Achmaneids built up the first true super-state, touching three continents. After the fall of Persia the old traditions were respected by the conquerors, and the old territorial administration survived for long time.
+
+The colourful people of the multi-national empire were tolerant and receptive, nourishing the hellenization of the state and the survival of the old ways alike."</string>
+<string name="faction_groups_description_localised_rom_faction_group_arabian">[DO NOT LOCALISE]</string>
+<string name="faction_groups_name_localised_rom_faction_group_carthage">Carthage</string>
+<string name="faction_groups_name_localised_rom_faction_group_germanic">Germanic Tribes</string>
+<string name="faction_groups_name_localised_rom_faction_group_britannic">Britannic Tribes</string>
+<string name="faction_groups_name_localised_rom_faction_group_african">African Kingdoms</string>
+<string name="faction_groups_name_localised_rom_faction_group_nomadic">Nomadic Tribes</string>
+<string name="faction_groups_description_localised_rom_faction_group_britannic">"Described by Pytheas as ""Pretannoi"" or ""Pretani"" - the ""painted ones"" - these Celts are a fierce and independent poeple from the island of Hai Bretannai.
+
+They were hard to pacify after a widespread rebellion lead by Boudicca."</string>
+<string name="faction_groups_description_localised_rom_faction_group_nomadic">[DO NOT LOCALISE]</string>
+<string name="faction_groups_description_localised_rom_faction_group_african">[DO NOT LOCALISE]</string>
+<string name="faction_groups_name_localised_rom_faction_group_arabian">Arabian Kingdoms</string>
+<string name="faction_groups_name_localised_rom_faction_group_eastern">Eastern Empires</string>
+<string name="faction_groups_description_localised_rom_faction_group_successors">After Alexander's death, his mightiest generals tore apart his empire as they fought for it. Over the years the claims and counter-claims of legitimacy deepened the rivalry between the Successors. While all claimed to be Greek and promoted Hellenisation in their kingdoms, each also claimed to be the one true inheritor of Alexander's legacy...</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

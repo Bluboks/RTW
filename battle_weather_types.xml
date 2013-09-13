@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="battle_weather_types_onscreen_snow">Snow</string>
+<string name="battle_weather_types_onscreen_rain">Rain</string>
+<string name="battle_weather_types_onscreen_fog">Fog</string>
+<string name="battle_weather_types_onscreen_dry">Dry</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

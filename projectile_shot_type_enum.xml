@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="projectile_shot_type_enum_button_tooltip_text_small_arm_heavy">"Heavy Shot||Causes greater damage but has shorter range & reduced accuracy.
+
+[[col:green]]Damage[[/col]]
+
+[[col:red]]Range, accuracy[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_torch">Torch</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_small_arm_default">Standard Shot||This is the standard shot type for this unit.</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_artillery_default">Standard Round||This is the standard shot type for this unit.</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_artillery_explosive">"Explosive Round||Does more damage than Standard Round, but is less accurate. Most effective against infantry.
+
+[[col:green]]Bonus vs infantry[[/col]]
+
+[[col:red]]Accuracy[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_small_arm_flaming">"Flaming Shot||Does more damage, but is less accurate and slower. Can cause buildings to catch fire.
+
+[[col:green]]Damage, bonus vs buildings[[/col]]
+
+[[col:red]]Accuracy, reload time, cannot be used in wet weather[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_artillery_whistling">"Whistling Round||Causes less damage, but has a fearsome sound. Adversely affects the morale, melee attack & firing rate of targets & any unit they pass over.
+
+[[col:red]]Melee attack, shots per minute
+Damage[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_artillery_flammable">"Flammable Round||Does more damage, but is less accurate and slower. Can cause buildings to catch fire.
+
+[[col:green]]Damage, bonus vs buildings[[/col]]
+
+[[col:red]]Accuracy, reload time, cannot be used in wet weather[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_small_arm_whistling">"Whistling Shot||Causes less damage, but has a fearsome sound. Adversely affects the morale, melee attack & firing rate of targets & any unit they pass over.
+
+[[col:red]]Melee attack, shots per minute
+Damage[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_artillery_poison">"Poison Round||Reduces enemy's melee attack and defence & causes fatigue. Also reduces firing range.
+
+[[col:red]]Melee attack, melee defense
+Firing range[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_small_arm_extended">"Extended Shot||Has greater range but causes less damage.
+
+[[col:green]]Range[[/col]]
+
+[[col:red]]Damage[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_small_arm_poison">"Poison Shot||Reduces enemy melee attack and defense, and fatigues the target unit. Does less damage[[col:red]]Melee attack & defense
+Damage[[/col]]"</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_oil">Burning Oil</string>
+<string name="projectile_shot_type_enum_button_tooltip_text_explosives">Explosive Pot</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>
