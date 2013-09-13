@@ -949,4 +949,4 @@ There are three statistics by which the effectiveness of all characters can be m
 <string name="encyclopedia_blocks_heading_enc_text_manual_actions_campaign_stances_camp">Fortify</string>
 <string name="encyclopedia_blocks_content_enc_text_manual_public_order">Obedience to the rule of your faction is measured in public order. The factors that affect it are displayed on the region details panel, and include elements such as settlement level, presence of a garrison and the size of the tax burden placed on the populace. If unhappiness begins to outweigh happiness it will accumulate, eventually leading to rebellion if left unchecked. Keep taxes at reasonable levels, maintain sufficient food supplies and ensure that settlements are garrisoned to stop low public order bubbling over into rioting or worse, full-scale rebellion.</string>
 <string name="nothing_nothing">nothing_nothing</string>
-</resource>
+</resource>

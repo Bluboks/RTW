@@ -228,4 +228,4 @@ The current edict will cease to take effect at the start of the next turn."</str
 <string name="campaign_localised_strings_string_details_panel_ancillary_cannot_assign">[[col:yellow]]There are currently no household member or objects available for assigment.[[/col]]</string>
 <string name="campaign_localised_strings_string_general_type_admiral">Admiral</string>
 <string name="nothing_nothing">nothing_nothing</string>
-</resource>
+</resource>

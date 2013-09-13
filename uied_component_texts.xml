@@ -2277,4 +2277,4 @@ PLACEHOLDER LOOT DESCRIPTION
 <string name="uied_component_texts_localised_string_host_Tooltip_77000f">This shows the battle resolve mode of the selected game.||Click the column header to sort games by the battle resolve mode.</string>
 <string name="uied_component_texts_localised_string_tab_missions_Tooltip_60039f">Active Missions</string>
 <string name="nothing_nothing">nothing_nothing</string>
-</resource>
+</resource>
