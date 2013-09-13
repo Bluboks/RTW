@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="aide_de_camp_speeches_text_adc_enemy_reinforcements">Enemy reinforcements approaching!</string>
+<string name="aide_de_camp_speeches_text_adc_own_unit_lost">An entire unit has perished!</string>
+<string name="aide_de_camp_speeches_text_adc_own_tower_destroyed">A tower has been destroyed!</string>
+<string name="aide_de_camp_speeches_text_adc_enemy_point_captured">Our enemy have lost a victory point!</string>
+<string name="aide_de_camp_speeches_text_adc_own_fort_about_to_be_captured">The enemy is about to capture the fort!</string>
+<string name="aide_de_camp_speeches_text_adc_enemy_tower_captured">We have captured a tower! </string>
+<string name="aide_de_camp_speeches_text_adc_own_general_attacked">Our general is under attack!</string>
+<string name="aide_de_camp_speeches_text_adc_enemy_gate_captured">We have captured the gates!</string>
+<string name="aide_de_camp_speeches_text_adc_enemy_general_killed">The enemy general is dead!</string>
+<string name="aide_de_camp_speeches_text_adc_walls_breached">The walls are breached!</string>
+<string name="aide_de_camp_speeches_text_adc_own_unit_out_of_ammo">One of our units has used all its ammunition!</string>
+<string name="aide_de_camp_speeches_text_adc_enemy_tower_destroyed">The enemy's tower has been destroyed!</string>
+<string name="aide_de_camp_speeches_text_adc_losing">We are losing ground!</string>
+<string name="aide_de_camp_speeches_text_adc_own_general_injured">Our general has sustained a terrible injury, but he will live!</string>
+<string name="aide_de_camp_speeches_text_adc_allied_general_killed">Our ally's general has fallen! </string>
+<string name="aide_de_camp_speeches_text_adc_enemy_gate_destroyed">The enemy's gates have been destroyed!</string>
+<string name="aide_de_camp_speeches_text_adc_own_ship_being_boarded">One of our ships is being boarded!</string>
+<string name="aide_de_camp_speeches_text_adc_own_siege_equipment_destroyed">Our siege equipment has been destroyed!</string>
+<string name="aide_de_camp_speeches_text_adc_enemy_hidden_unit_spotted">We have discovered the enemy's hidden units!</string>
+<string name="aide_de_camp_speeches_text_adc_own_hidden_unit_spotted">Our hidden units have been discovered! </string>
+<string name="aide_de_camp_speeches_text_adc_own_unit_routed">Our men flee the field of battle! This is a shameful display!</string>
+<string name="aide_de_camp_speeches_text_adc_own_gate_destroyed">Our gates are utterly destroyed!</string>
+<string name="aide_de_camp_speeches_text_adc_winning">The battle is turning in our favour!</string>
+<string name="aide_de_camp_speeches_text_adc_own_ally_destroyed">Our ally has been destroyed!</string>
+<string name="aide_de_camp_speeches_text_adc_own_point_captured">We have lost a victory point!</string>
+<string name="aide_de_camp_speeches_text_adc_own_unit_wavering">The men are wavering!</string>
+<string name="aide_de_camp_speeches_text_adc_own_tower_captured">The enemy have taken a tower!</string>
+<string name="aide_de_camp_speeches_text_adc_own_ally_attacked">The enemy is attacking our ally!</string>
+<string name="aide_de_camp_speeches_text_adc_own_general_killed">Our general has fallen! </string>
+<string name="aide_de_camp_speeches_text_adc_own_reinforcements">Our reinforcements have arrived!</string>
+<string name="aide_de_camp_speeches_text_adc_own_unit_berserk">One of our units has gone berserk!</string>
+<string name="aide_de_camp_speeches_text_adc_enemy_fort_about_to_be_captured">The enemy fort will soon be ours! </string>
+<string name="aide_de_camp_speeches_text_adc_own_gate_captured">The enemy have captured the gates!</string>
+<string name="aide_de_camp_speeches_text_adc_own_ship_on_fire">One of our ships is on fire!</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="unit_weights_onscreen_text_very_light">Very Light</string>
+<string name="unit_weights_onscreen_text_very_heavy">Very Heavy</string>
+<string name="unit_weights_onscreen_text_medium">Medium</string>
+<string name="unit_weights_onscreen_text_light">Light</string>
+<string name="unit_weights_onscreen_text_super_heavy">Super Heavy</string>
+<string name="unit_weights_onscreen_text_heavy">Heavy</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>
