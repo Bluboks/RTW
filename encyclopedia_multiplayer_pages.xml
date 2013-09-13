@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resource>
-<string name="encyclopedia_multiplayer_pages_title_enc_manual_index">Manual</string>
-<string name="encyclopedia_multiplayer_pages_title_enc_page_multiplayer_battle_list">Multiplayer Battle</string>
-<string name="encyclopedia_multiplayer_pages_title_enc_page_multiplayer_multiplayer_campaign">Multiplayer Campaign</string>
-<string name="encyclopedia_multiplayer_pages_title_enc_page_multiplayer_quick_battle">Quick Battle</string>
-<string name="encyclopedia_multiplayer_pages_title_enc_page_multiplayer_leaderboards">Leaderboards</string>
-<string name="nothing_nothing">nothing_nothing</string>
-</resource>

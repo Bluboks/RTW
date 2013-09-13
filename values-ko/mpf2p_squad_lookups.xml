@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resource>
-<string name="mpf2p_squad_lookups_onscreen_name_assault">Assault Squad</string>
-<string name="mpf2p_squad_lookups_onscreen_name_missile">Missile Squad</string>
-<string name="mpf2p_squad_lookups_onscreen_name_artillery">Artillery Squad</string>
-<string name="mpf2p_squad_lookups_onscreen_name_heavy">Heavy Squad</string>
-<string name="mpf2p_squad_lookups_onscreen_name_scout">Scout Squad</string>
-<string name="nothing_nothing">nothing_nothing</string>
-</resource>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resource>
-<string name="wind_levels_onscreen_calm_westerly">Calm</string>
-<string name="wind_levels_onscreen_storm_westerly">Gale</string>
-<string name="wind_levels_onscreen_strong_westerly">Strong Breeze</string>
-<string name="wind_levels_onscreen_light_westerly">Light Breeze</string>
-<string name="wind_levels_onscreen_moderate_westerly">Moderate Breeze</string>
-<string name="nothing_nothing">nothing_nothing</string>
-</resource>
