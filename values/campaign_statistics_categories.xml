@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="campaign_statistics_categories_localised_description_stat_cat_general">General</string>
+<string name="campaign_statistics_categories_localised_description_stat_cat_military_forces">Forces</string>
+<string name="campaign_statistics_categories_localised_description_stat_cat_economy">Economy</string>
+<string name="campaign_statistics_categories_localised_description_stat_cat_empire">Empire</string>
+<string name="campaign_statistics_categories_localised_description_stat_cat_agents">Agents</string>
+<string name="campaign_statistics_categories_localised_description_stat_cat_diplomacy">Diplomacy</string>
+<string name="campaign_statistics_categories_localised_description_stat_cat_military_battles">Conflicts</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

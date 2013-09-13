@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="faction_civil_war_setups_faction_name_override_secondary_low_rom_rome">Roman Empire</string>
+<string name="faction_civil_war_setups_faction_name_override_primary_low_rom_rome">Roman Empire</string>
+<string name="faction_civil_war_setups_faction_name_override_primary_low_rom_athens">Athenian Empire</string>
+<string name="faction_civil_war_setups_faction_name_override_primary_high_rom_rome">Roman Empire</string>
+<string name="faction_civil_war_setups_faction_leader_title_override_victory_rom_athens">Tyrant</string>
+<string name="faction_civil_war_setups_faction_name_override_primary_high_rom_athens">Athenian Empire</string>
+<string name="faction_civil_war_setups_faction_name_override_victory_rom_rome">Roman Empire</string>
+<string name="faction_civil_war_setups_faction_name_override_secondary_high_rom_rome">Roman Empire</string>
+<string name="faction_civil_war_setups_faction_name_override_secondary_low_rom_athens">Athenian Empire</string>
+<string name="faction_civil_war_setups_faction_name_override_secondary_high_rom_athens">Athenian Empire</string>
+<string name="faction_civil_war_setups_faction_leader_title_override_victory_rom_rome">Emperor</string>
+<string name="faction_civil_war_setups_faction_name_override_victory_rom_athens">Athenian Empire</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="campaigns_description_prologue_03">Placeholder description</string>
+<string name="campaigns_description_prologue_02">Placeholder description</string>
+<string name="campaigns_description_prologue_01">Placeholder description</string>
+<string name="campaigns_onscreen_name_prologue_02">Samnite Wars</string>
+<string name="campaigns_onscreen_name_prologue_03">Samnite Wars</string>
+<string name="campaigns_onscreen_name_prologue_01">Samnite Wars</string>
+<string name="campaigns_description_main_rome">Placeholder description</string>
+<string name="campaigns_onscreen_name_main_rome">Rome</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

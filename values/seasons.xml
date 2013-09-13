@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="seasons_onscreen_none">None</string>
+<string name="seasons_onscreen_season_spring">Spring</string>
+<string name="seasons_onscreen_season_summer">Summer</string>
+<string name="seasons_onscreen_season_winter">Winter</string>
+<string name="seasons_onscreen_season_autumn">Autumn</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="capture_point_types_onscreen_name_capture_point_tower_only">Capture Point - Tower</string>
+<string name="capture_point_types_onscreen_name_victory_point_plaza">Victory Point - Plaza</string>
+<string name="capture_point_types_onscreen_name_victory_point_statue_helios">Victory Point - Statue of Helios</string>
+<string name="capture_point_types_onscreen_name_victory_point_statue_hera">Victory Point - Statue of Hera</string>
+<string name="capture_point_types_onscreen_name_victory_point_agora">Victory Point - Agora</string>
+<string name="capture_point_types_onscreen_name_victory_point_lighthouse">Victory Point - Lighthouse</string>
+<string name="capture_point_types_onscreen_name_victory_point_forum">Victory Point - Forum</string>
+<string name="capture_point_types_onscreen_name_victory_point_baths">Victory Point - Thermal Baths</string>
+<string name="capture_point_types_onscreen_name_victory_point_docks">Victory Point - Docks</string>
+<string name="capture_point_types_onscreen_name_victory_point_arena">Victory Point - Arena</string>
+<string name="capture_point_types_onscreen_name_victory_point_stone_circle">Victory Point - Stone Circle</string>
+<string name="capture_point_types_onscreen_name_victory_point_park">Victory Point - Gardens</string>
+<string name="capture_point_types_onscreen_name_victory_point_ziggurat">Victory Point - Ziggurat</string>
+<string name="capture_point_types_onscreen_name_victory_point_aqueduct">Victory Point - Aqueduct</string>
+<string name="capture_point_types_onscreen_name_victory_point_barracks">Victory Point - Barracks</string>
+<string name="capture_point_types_onscreen_name_victory_point_coliseum">Victory Point - Coliseum</string>
+<string name="capture_point_types_onscreen_name_victory_point_bridge">Victory Point - Bridge</string>
+<string name="capture_point_types_onscreen_name_victory_point_statue_poseidon">Victory Point - Statue of Poseidon</string>
+<string name="capture_point_types_onscreen_name_victory_point_archery">Victory Point - Archery Range</string>
+<string name="capture_point_types_onscreen_name_victory_point_statue_augustus">Victory Point - Statue of Augustus</string>
+<string name="capture_point_types_onscreen_name_capture_point_gate_and_towers">Capture Point - Gate and Tower(s)</string>
+<string name="capture_point_types_onscreen_name_victory_point_market">Victory Point - Market</string>
+<string name="capture_point_types_onscreen_name_victory_point_circus">Victory Point - Circus Maximus</string>
+<string name="capture_point_types_onscreen_name_victory_point_theatre">Victory Point - Theatre</string>
+<string name="capture_point_types_onscreen_name_victory_point_palace">Victory Point - Palace</string>
+<string name="capture_point_types_onscreen_name_victory_point_chieftain">Victory Point - Chieftain House</string>
+<string name="capture_point_types_onscreen_name_a_default_capture_point">Victory Point</string>
+<string name="capture_point_types_onscreen_name_capture_point_gate_only">Capture Point - Gate</string>
+<string name="capture_point_types_onscreen_name_victory_point_great_oak">Victory Point - Great Oak</string>
+<string name="capture_point_types_onscreen_name_victory_point_stables">Victory Point - Stables</string>
+<string name="capture_point_types_onscreen_name_victory_point_obelisk">Victory Point - Obelisk</string>
+<string name="capture_point_types_onscreen_name_victory_point_shrine">Victory Point - Shrine</string>
+<string name="capture_point_types_onscreen_name_victory_point_acropolis">Victory Point - Acropolis</string>
+<string name="capture_point_types_onscreen_name_victory_point_temple">Victory Point - Temple</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

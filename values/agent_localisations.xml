@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="agent_localisations_text_agent_attribute_tooltip_subterfuge">Cunning||An agent's capacity for subterfuge and espionage.</string>
+<string name="agent_localisations_text_general_profession_admiral">Admiral</string>
+<string name="agent_localisations_text_general_profession_general">General</string>
+<string name="agent_localisations_text_general_attribute_tooltip_subterfuge">Cunning||A general's understanding of strategy and tactics.</string>
+<string name="agent_localisations_text_agent_action_panel_all_method_hinder_agent">Method of Manipulation</string>
+<string name="agent_localisations_text_agent_attribute_tooltip_zeal">Zeal||An agent's resolve and capacity for hostility.</string>
+<string name="agent_localisations_text_agent_localisation_action_deployed_cannot_undeploy">"
+This agent is deployed here.
+
+[[col:red]]They may not redeploy this turn.[[/col]]"</string>
+<string name="agent_localisations_text_general_profession_emperor">Emperor</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_agent_cap_reached">"[[col:red]]You are already fielding the current maximum number of this agent type.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_action_panel_champion_method_hinder_settlement">Method of Subversion</string>
+<string name="agent_localisations_text_agent_action_panel_chance_manipulation_steal">Chance to manipulate: </string>
+<string name="agent_localisations_text_agent_attribute_tooltip_authority">Authority||An agent's strength of character and capacity for manipulation.</string>
+<string name="agent_localisations_text_agent_outcome_opportune_failure_money_refund">They were able to recoup the cost of their attempt.</string>
+<string name="agent_localisations_text_agent_action_panel_spy_method_hinder_army">Method of Sabotage</string>
+<string name="agent_localisations_text_agent_disband_dialog_heading">Dismiss Agent</string>
+<string name="agent_localisations_text_agent_localisation_action_undeployed_at_sea_cannot_deploy">[[col:red]]Agents cannot deploy at sea.[[/col]]</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_cannot_sabotage_fully_damaged_building">"[[col:red]]This building cannot be sabotaged as it is already in ruins.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_action_result_strings_target">Target:</string>
+<string name="agent_localisations_text_general_attribute_tooltip_authority">Authority||A general's strength of character and ability to lead troops into battle.</string>
+<string name="agent_localisations_text_general_profession_candidate">Candidate</string>
+<string name="agent_localisations_text_agent_action_panel_chance_assassination_kill">Chance to assassinate: </string>
+<string name="agent_localisations_text_agent_attribute_panel_approach_subterfuge_tooltip">Cunning-based approach.||The success of this approach is governed by the agent's cunning attribute versus that of their target. </string>
+<string name="agent_localisations_text_agent_localisation_action_undeployed_cannot_deploy">"
+[[col:red]]This agent may not deploy this turn.[[/col]]"</string>
+<string name="agent_localisations_text_agent_attribute_panel_approach_zeal_tooltip">Zeal-based approach.||The success of this approach is governed by the agent's zeal attribute versus that of their target. </string>
+<string name="agent_localisations_text_agent_action_result_strings_action">Action:</string>
+<string name="agent_localisations_text_general_profession_politician">Statesman</string>
+<string name="agent_localisations_text_agent_action_panel_spy_method_hinder_settlement">Method of Sabotage</string>
+<string name="agent_localisations_text_agent_attribute_panel_approach_attribute_yours">Yours:</string>
+<string name="agent_localisations_text_agent_localisation_action_undeployed_can_deploy">"
+Left-click to deploy.
+
+[[col:yellow]]Whilst deployed, agents cannot act against other targets.[[/col]]"</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_low_success_chance">"[[col:red]]This action cannot succeed: the chance of success is too low.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_cannot_sabotage_damaged_castle_gates">"[[col:red]]The gates cannot be sabotaged as they are already damaged.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_action_panel_champion_method_hinder_army">Method of Subversion</string>
+<string name="agent_localisations_text_agent_outcome_opportune_failure_research_points">They acquired important knowledge that will contribute towards research efforts.</string>
+<string name="agent_localisations_text_agent_attribute_panel_approach_authority_tooltip">Authority-based approach.||The success of this approach is governed by the agent's authority attribute versus that of their target. </string>
+<string name="agent_localisations_text_agent_attribute_panel_approach_attribute_theirs">Theirs:</string>
+<string name="agent_localisations_text_agent_action_panel_dignitary_method_hinder_settlement">Method of Disruption</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_ok">"[[col:green]]This agent can perform this action.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_action_panel_chance_assassination_wound">Chance to wound: </string>
+<string name="agent_localisations_text_agent_localisation_action_deployed_can_undeploy">"
+This agent is deployed within this province.
+
+Left-click to undeploy."</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_guaranteed">"[[col:green]]This action cannot fail.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_outcome_opportune_failure_go_again">They went completely unnoticed and unhindered, and there was nothing preventing them from making another attempt.</string>
+<string name="agent_localisations_text_agent_outcome_opportune_failure_ancillary_steal">They convince a member of their target's household to join them before making their escape.</string>
+<string name="agent_localisations_text_general_attribute_tooltip_zeal">Zeal||A general's resolve and personal combat prowess.</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_insufficient_funds">"[[col:red]]You have insufficient funds to perform this action.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_outcome_opportune_failure_ancillary_kill">They managed to kill a member of their target's household whilst making their escape.</string>
+<string name="agent_localisations_text_agent_action_panel_chance_manipulation_hinder">Chance to hinder:</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_coop_action">"[[col:red]]You cannot perform agent actions against your co-op ally.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_localisation_action_execution_status_seduce_faction_leader">"[[col:red]]You cannot manipulate a faction leader.
+[[/col]]"</string>
+<string name="agent_localisations_text_agent_action_panel_all_method_hinder_character">Method of Assassination</string>
+<string name="agent_localisations_text_agent_disband_dialog_description">Are you sure you wish to dismiss this agent?</string>
+<string name="agent_localisations_text_agent_action_panel_dignitary_method_hinder_army">Method of Disruption</string>
+<string name="agent_localisations_text_agent_outcome_opportune_failure_additional_experience">They learned more from their failure than they would otherwise have done.</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

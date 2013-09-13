@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="stances_onscreen_protector">(Placeholder)Protector</string>
+<string name="stances_onscreen_client_state">(Placeholder)Client State</string>
+<string name="stances_onscreen_war">War</string>
+<string name="stances_onscreen_master">(Placeholder)Overlord</string>
+<string name="stances_onscreen_neutral">Neutral</string>
+<string name="stances_onscreen_military_allies">(Placeholder)Allied</string>
+<string name="stances_onscreen_vassal">(Placeholder)Vassal</string>
+<string name="stances_onscreen_defensive_allies">(Placeholder)Defensive Alliance</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

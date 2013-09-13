@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitaryassist_army">[[col:green]]Increases the authority[[/col]] of the parent army's general and [[col:green]]reduces upkeep costs[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spyhinder_settlement">[[col:green]]Disrupts construction[[/col]] in the target settlement with [[col:green]]additional effects[[/col]] depending on the approach taken.</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitaryhinder_army">Military Disruption</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championassist_army">Military Training</string>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitaryhinder_agent">[[col:green]]Stops the target[[/col]] agent in their tracks or convinces them to [[col:green]]join your cause[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spyhinder_settlement">Sabotage</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championhinder_army">Military Subversion</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitaryassist_army">Military Administration</string>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitaryhinder_army">[[col:green]]Slows or stops[[/col]] the target army, preventing them from reinforcing their allies, with [[col:green]]additional effects[[/col]] depending on the approach taken.</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spyhinder_character">[[col:green]]Wounds or kills[[/col]] the target character.</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitaryhinder_agent">Manipulation</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championassist_army">[[col:green]]Increases the zeal[[/col]] of the parent army's general and progressively [[col:green]]increases the experience[[/col]] of all its units.</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spyhinder_province">Intelligence</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spyhinder_army">[[col:green]]Slows or stops[[/col]] the target army, preventing them from reinforcing their allies, with [[col:green]]additional effects[[/col]] depending on the approach taken.</string>
+<string name="agent_to_agent_abilities_localised_ability_name_generalcommand_force">[PLACEHOLDER]</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitaryhinder_settlement">Disruption</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championhinder_agent">Manipulation</string>
+<string name="agent_to_agent_abilities_localised_ability_name_colonelcommand_force">[PLACEHOLDER]</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spyassist_army">[[col:green]]Increases the cunning[[/col]] of the parent army's general whilst helping to [[col:green]]protect it against all enemy agent actions[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spyhinder_character">Assassination</string>
+<string name="agent_to_agent_abilities_localised_ability_description_colonelcommand_force">[PLACEHOLDER]</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championhinder_agent">[[col:green]]Stops the target[[/col]] agent in their tracks or convinces them to [[col:green]]join your cause[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_description_generalcommand_force">[PLACEHOLDER]</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spyassist_province">Counter-intelligence</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championhinder_army">[[col:green]]Slows or stops[[/col]] the target army, preventing them from reinforcing their allies, with [[col:green]]additional effects[[/col]] depending on the approach taken.</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spypassive_ability">Infiltration</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championhinder_settlement">[[col:green]]Disrupts construction[[/col]] in the target settlement with [[col:green]]additional effects[[/col]] depending on the approach taken.</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championassist_province">Brings word of glorious battles and great victories, thereby [[col:green]]inspiring the local populace[[/col]]. This rise in military fervour also helps [[col:green]]protect local settlements from zealous agent actions[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitaryhinder_settlement">[[col:green]]Disrupts construction[[/col]] in the target settlement with [[col:green]]additional effects[[/col]] depending on the approach taken.</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spyhinder_army">Military Sabotage</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spyhinder_agent">Manipulation</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spyhinder_province">Establishes a local spy network, improving the [[col:green]]chance of detecting hidden agents and armies[[/col]] in the area whilst [[col:green]]protecting local settlements from cunning agent actions[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championhinder_character">[[col:green]]Wounds or kills[[/col]] the target character.</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championpassive_ability">Acquires a [[col:green]]small amount of wealth[[/col]], increasing as the champion wanders further from friendly territory.</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spyassist_province">Establishes a local spy network, improving the [[col:green]]chance of detecting hidden agents and armies[[/col]] in the area whilst [[col:green]]protecting local settlements from cunning agent actions[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_name_spyassist_army">Military Intelligence</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championhinder_character">Assassination</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spypassive_ability">Allows [[col:green]]covert movement[[/col]] about the campaign map, unseen unless spotted by keen-eyed rivals.</string>
+<string name="agent_to_agent_abilities_localised_ability_description_championhinder_province">Wreaks [[col:green]]despair amongst the populace[[/col]] with small-scale military actions. The struggle to maintain order also leaves local settlements [[col:green]]vulnerable to zealous agent actions[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitaryhinder_character">Assassination</string>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitarypassive_ability">"Gradually [[col:green]]spreads your culture[[/col]] throughout the local province.
+[[col:yellow]]Ineffective where your culture is already dominant.[[/col]]"</string>
+<string name="agent_to_agent_abilities_localised_ability_description_spyhinder_agent">[[col:green]]Stops the target[[/col]] agent in their tracks or convinces them to [[col:green]]join your cause[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championpassive_ability">Adventuring</string>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitaryassist_province">Advises local officials, thereby [[col:green]]increasing tax rates[[/col]] while helping [[col:green]]protect local settlements against authoritarian agent actions[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitaryhinder_character">[[col:green]]Wounds or kills[[/col]] the target character.</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitaryhinder_province">Corruption</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championassist_province">Military Fervour</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championhinder_settlement">Subversion</string>
+<string name="agent_to_agent_abilities_localised_ability_name_championhinder_province">Guerrilla Action</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitaryassist_province">Administration</string>
+<string name="agent_to_agent_abilities_localised_ability_description_dignitaryhinder_province">Corrupts local officials, thereby [[col:green]]diminishing tax rates[[/col]]. The disruptions in government also leaves local settlements [[col:green]]vulnerable to authoritarian agent actions[[/col]].</string>
+<string name="agent_to_agent_abilities_localised_ability_name_dignitarypassive_ability">Culture</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

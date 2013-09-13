@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="battle_types_onscreen_siege">City Assault</string>
+<string name="battle_types_onscreen_limes">Limes</string>
+<string name="battle_types_onscreen_naval">Naval Battle</string>
+<string name="battle_types_onscreen_ambush">Ambush Battle</string>
+<string name="battle_types_onscreen_unfortified_settlement">Unfortified Town Assault</string>
+<string name="battle_types_onscreen_coastal_battle">Coastal Battle</string>
+<string name="battle_types_onscreen_river_crossing_battle">River Crossing Battle</string>
+<string name="battle_types_onscreen_capture_point">Capture Point Battle</string>
+<string name="battle_types_onscreen_classic">Land Battle</string>
+<string name="battle_types_onscreen_campaign_battle">Campaign Battle</string>
+<string name="battle_types_onscreen_Tutorial">Tutorial</string>
+<string name="battle_types_onscreen_naval_siege">Port Assault</string>
+<string name="battle_types_onscreen_unfortified_port">Unfortified Port Assault</string>
+<string name="battle_types_onscreen_historic">Scenario Battle</string>
+<string name="battle_types_onscreen_napoleon_historic">text_rejected</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

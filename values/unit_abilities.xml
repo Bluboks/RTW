@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="unit_abilities_tooltip_text_steady_advance">Steady Advance||</string>
+<string name="unit_abilities_tooltip_text_steady_retreat">"Steady||Improves the unit's ability to endure enemy charges.
+
+[[col:green]]Bracing, weapon damage[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_taunt_group">Taunt Group||</string>
+<string name="unit_abilities_tooltip_text_precision_shot">"Precision Shot||Improved missile weapon damage for an extended period.
+
+[[col:green]]Missile damage[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_inspire_group">"Inspire Group||Your general improves the combat skills of friendly units within his area of influence for a short time.
+
+[[col:green]]Melee attack, melee defence, accuracy, reload skill[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_frenzy">"Frenzy||Improves a unit's charge and weapon damage for an extended period.
+
+[[col:green]]Charge damage, Weapon damage[[/col]]
+
+[[col:red]]Exertion: fatigue[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_15">Arena - Herd and Slaughter||A circular formation which allows entities in but not out. All entities within the formation are exposed to a devastating damage AOE.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_14">Arena - Brace Yourself||Unit applies a braced stance which negates any charge bonus and reflects an initial attack.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_17">Arena - Raise Shields||The casting unit raises their shields increasing their missile deflection chance.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_16">Arena - Single Dismount||Actions a cavalry unit to dismount from their horses, becoming a melee infantry unit. This is an irreversible action as the horses will instant route after dismount is executed.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_11">Arena - Battle Cry||Actions the casting unit into an adrenalin fuelled battle cry/scream.  This applies a moral buff to allied units with a AOE.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_10">Barrage||The unit increases their rate of fire, slowing specific unit types.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_13">Arena - Wooden Swords, Steal Hearts||The casting unit is desperate and underequipped. They wear their hearts on their shoulders in a berserk like run. Outputting a high level of damage and ignoring any received damage for a period of time</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_12">Arena - Hold the Line||The casting unit screams for men to stay in rank. All allied units in melee combat within a AOE receive a melee defence buff.</string>
+<string name="unit_abilities_tooltip_text_form_testudo_defensive">"Defensive Testudo||The unit raises their shields above their heads in a static defensive formation.
+
+[[col:green]]Bracing, armour strength, shield strength[[/col]]
+
+[[col:red]]Can't move[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_warcry">War Cry||</string>
+<string name="unit_abilities_tooltip_text_com_we_stand_and_fight">Stand & Fight||</string>
+<string name="unit_abilities_tooltip_text_cantabrian_circle">"Cantabrian Circle||The unit fires whilst riding in a circle.
+
+[[col:green]]Harder to hit, reload skill[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_light_infantry_behaviour">Light Infantry Behaviour||</string>
+<string name="unit_abilities_tooltip_text_form_pike_wall">"Pike Phalanx||The unit moves into a deep, close defensive formation.
+
+[[col:green]]Bonus vs cavalry, bracing, melee defence, shield strength[[/col]].
+
+[[col:red]]Acceleration, speed[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_kill_elephants">Kill Elephants||Elephant drivers will kill their mounts with spikes. To be used only if they run amok.</string>
+<string name="unit_abilities_tooltip_text_form_flying_wedge">"Flying Wedge||The unit moves into a flying wedge-shaped attack formation.
+
+[[col:green]]Charge bonus, melee attack[[/col]]
+
+[[col:red]]Acceleration, melee defence[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_second_wind">"Second Wind||Target a friendly unit to remove any fatigue they may have.
+
+[[col:green]]Fatigue[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_screech">"Screech||Reduces the morale of nearby enemy units.
+
+[[col:red]]Morale[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_inspire_unit">"Inspire||Target friendly units to improve their combat skills for a short time.
+
+[[col:green]]Melee attack, melee defence, accuracy, reload skill[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_form_shield_wall">"Shieldwall||The unit moves into a close formation and raises shields.
+
+[[col:green]]Armour strength, bracing, melee defence, shield strength[[/col]]
+
+[[col:red]]Acceleration[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_war_cry_group">"War Cry Group||Reduces the morale of enemy units within your general's area of influence for a short time.
+
+[[col:red]]Morale[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_push">"Push||Target an enemy unit to reduce their defense against charges and melee defence for a short time.
+
+[[col:red]]Melee defence, bracing[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_shock_and_awe">Shock & Awe||</string>
+<string name="unit_abilities_tooltip_text_form_pike_square">"Square||The unit moves into a close square formation.
+
+[[col:green]]Shield strength, armour strength[[/col]]
+
+[[col:red]]Can't move[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_fire_and_advance">Fire & Advance||</string>
+<string name="unit_abilities_tooltip_text_com_brace">"Brace||Target friendly units to improve their resistance against charges for a short time.
+
+[[col:green]]Bracing, bonus vs cavalry[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_stampede">"Stampede||Charges are more effective for an extended time.
+
+[[col:green]]Charge bonus[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_raise_banner">"Raise Banner||Increases your general's area of influence and improves the army's defence for an extended period.
+
+[[col:green]]Area of influence, melee defence[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_cavalry_counter_tactics">"Cavalry Counter-tactics||Improves unit's ability to endure enemy charges, especially cavalry charges, for an extended time.
+
+[[col:green]]Bracing, melee defence, weapon damage[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_headhunt">"Headhunt||Gradual increase in effectiveness of the unit's attack.
+
+[[col:green]]Melee attack, morale[[/col]]
+
+[[col:red]]Melee defence[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_frenzied_charge">"Frenzied Charge||Increases the effectiveness of the unit's charge for an extended period.
+
+[[col:green]]Charge speed, charge damage, acceleration[[/col]]
+
+[[col:red]]Melee defence[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_trample">"Trample||Charges are more effective for an extended time.
+
+[[col:green]]Charge bonus[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_rally">"Rally||Improves morale for friendly units within your general's area of influence.
+
+[[col:green]]Morale[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_battle_rhythm">"Battle Rhythm||Target friendly units to gradually improve their combat skills for an extended time.
+
+[[col:green]]Melee attack, melee defence, weapon damage, speed[[/col]]
+
+[[col:red]]Exertion: Melee attack, melee defence, speed [[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_taunt">Taunt||</string>
+<string name="unit_abilities_tooltip_text_form_diamond">"Diamond||The unit moves into a diamond-shaped attack formation.
+
+[[col:green]]Charge bonus, melee attack[[/col]]
+
+[[col:red]]Acceleration, melee defence[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_dylans_test_2">dylan test 2</string>
+<string name="unit_abilities_tooltip_text_dylans_test_1">dylan test 1</string>
+<string name="unit_abilities_tooltip_text_form_hollow_square">Hollow Square||</string>
+<string name="unit_abilities_tooltip_text_form_testudo">"Attacking Testudo||The unit raises their shields above their heads in a defensive formation.
+
+[[col:green]]Armour strength, shield strength[[/col]]
+
+[[col:red]]Acceleration, speed[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_the_fear_group">"Intimidate||Prevents a single enemy unit from activating its abilities for an extended period.
+
+[[col:red]]Ability use[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_quick_reload">"Quick Reload||Improved reloading for an extended time.
+
+[[col:green]]Shots per minute[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_second_wind">Second Wind||</string>
+<string name="unit_abilities_tooltip_text_com_rally_and_inspire">"Rally & Inspire||Target friendly units to improve their combat skills and morale for a short time.
+
+[[col:green]]Melee attack, melee defence, accuracy, reload skill, morale[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_form_wedge">"Wedge||The unit moves into a wedge-shaped attack formation.
+
+[[col:green]]Charge bonus, melee attack[[/col]]
+
+[[col:red]]Acceleration, melee defence[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_frenzied_charge_inf">"Frenzied Charge||Increases the effectiveness of the unit's charge for an extended period.
+
+[[col:green]]Charge speed, charge damage, acceleration[[/col]]
+
+[[col:red]]Melee defence[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_rapid_volley">Rapid Volley||</string>
+<string name="unit_abilities_tooltip_text_form_cavalry_testudo">"Cavalry Testudo||The unit raises their shields and turns towards the aggressor.
+
+[[col:green]]Shield strength, armour strength[[/col]]
+
+[[col:red]]Can't run[[/col]] "</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_6">Arena - Make it Count||The casting unit focuses their eye firing a devastating volley.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_7">Arena - Conveterani||Applies a moral buff within an AOE to any unit that has less experience than the casting unit.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_4">Arena - cavalry_charge_1</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_5">Arena - Bloodlust||The casting units attack speed is increased for a set period of time.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_2">Arena - infantry_charge_1</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_3">Arena - heavy_infantry_charge_1</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_1">Arena - Quick March||</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_8">Arena - Aquila||Applies a moral buff within an AOE. However if the casting unit routes or dies, then any units within the AOE receive a large moral debuff.</string>
+<string name="unit_abilities_tooltip_text_a_mp_test_9">Arena - Stress||Torsion springs are overstrung resulting in increased range and damage at the cost of N damage to the weapon. Overuse can cause the weapon to collapse. </string>
+<string name="unit_abilities_tooltip_text_com_into_the_breach">"Into the Breach||Target friendly units to improve their charge for a short time.
+
+[[col:green]]Charge bonus, charge speed, weapon damage[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_killing_spree">"Killing Spree||Increases weapon damage for an extended period.
+
+[[col:green]]Weapon damage[[/col]]
+
+[[col:red]]Exertion: fatigue[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_form_hoplite_phalanx">"Hoplite Phalanx||The unit moves into close phalanx formation.
+
+[[col:green]]Bonus vs cavalry, bracing, melee defence, shield strength[[/col]]
+
+[[col:red]]Acceleration, speed[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_form_shield_screen">"Shield Screen||The unit raises their shields in a static defensive formation.
+
+[[col:green]]Bonus vs cavalry, bracing, melee defence, shield strength[[/col]]
+
+[[col:red]]Can't move[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_war_cry">"War Cry||Reduces the enemy's morale for a short time.
+
+[[col:red]]Morale[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_the_fear">"The Fear||Prevents any enemy units caught within your general's area of influence from activating their abilities for an extended period.
+
+[[col:red]]Ability use[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_use_the_whip">"Use the Whip||Improved attack and fatigue resistance for a short time.
+
+[[col:green]]Melee attack, weapon damage, fatigue resistance[[/col]]
+
+[[col:red]]Exertion: fatigue[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_rapid_advance">"Rapid Advance||Improved unit movement speed over an extended period.
+
+[[col:green]]Speed, acceleration, charge speed[[/col]]
+
+[[col:red]]Exertion: fatigue[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_chant">"Chant||Improves the morale of any friendly units within the unit's area of influence.
+
+[[col:green]]Morale[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_second_wind_group">"Second Wind Group||Your general removes the fatigue of any friendly units within his area of influence.
+
+[[col:green]]Fatigue[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_com_rally_position">Regroup Position||</string>
+<string name="unit_abilities_tooltip_text_draco">"Draco||Reduces the effectiveness against mounted units of any nearby enemies for an extended time.
+
+[[col:red]]Bonus vs cavalry, bonus vs elephants, bracing[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_hard_20">"Row Hard 20||Increases speed for 20 strokes.
+
+[[col:green]]Ship speed[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_hard_30">"Row Hard 30||Increases speed for 30 strokes.
+
+[[col:green]]Ship speed[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_hard_10">"Row Hard 10||Increases speed for 10 strokes.
+
+[[col:green]]Ship speed[[/col]]"</string>
+<string name="unit_abilities_tooltip_text_focus_fire">Focus Fire</string>
+<string name="unit_abilities_tooltip_text_manual_charge">Manual Charge</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

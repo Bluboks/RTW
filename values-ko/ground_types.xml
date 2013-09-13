@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="ground_types_tooltip_shallow_water">Shallow water slows down all units. Cavalry units are particularly affected.</string>
+<string name="ground_types_tooltip_forest">Forests are highly effective at hiding troops, but greatly reduce the combat ability and speed of cavalry units.</string>
+<string name="ground_types_tooltip_scrub">Scrub provides cover for light infantry units.</string>
+<string name="ground_types_tooltip_road">Roads allow all units to move quicker.</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="agent_actions_localised_action_name_dignitaryhinder_armyzeal">Threat of Destruction</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_characterauthority">[[col:green]]Kills the target[[/col]] character by putting a bounty on their head.</string>
+<string name="agent_actions_localised_action_description_dignitaryassist_provinceauthority">Advises local officials, thereby [[col:green]]increasing tax rates[[/col]] while helping [[col:green]]protect local settlements against authoritarian agent actions[[/col]].</string>
+<string name="agent_actions_localised_action_name_spyhinder_agentauthority">Persuasion</string>
+<string name="agent_actions_localised_action_description_spyhinder_characterzeal">[[col:green]]Kills the target[[/col]] character face to face.</string>
+<string name="agent_actions_localised_action_description_championhinder_agentzeal">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by exploiting their fears and weaknesses.</string>
+<string name="agent_actions_localised_action_description_championhinder_settlementauthority">"[[col:green]]Intensifies servile disorder[[/col]] in the target settlement, leading it towards a slave revolt.
+[[col:yellow]]Ineffective where there is no slave unrest.[[/col]]"</string>
+<string name="agent_actions_localised_action_name_spyhinder_characterzeal">Concealed Blade</string>
+<string name="agent_actions_localised_action_name_dignitaryassist_provinceauthority">Administration</string>
+<string name="agent_actions_localised_action_name_spyassist_armysubterfuge">Military Intelligence</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_agentzeal">Coercion</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_provinceauthority">Corruption</string>
+<string name="agent_actions_localised_action_description_championhinder_charactersubterfuge">[[col:green]]Kills the target[[/col]] character from afar before they have a chance to react.</string>
+<string name="agent_actions_localised_action_description_spyhinder_armyzeal">"[[col:green]]Reduces equipment bonuses[[/col]] for all units in the army.
+[[col:yellow]]Ineffective where units have no equipment bonuses.[[/col]]"</string>
+<string name="agent_actions_localised_action_description_spyhinder_armyauthority">"[[col:green]]Reveals an as-yet undiscovered army, settlement or agent[[/col]] belonging to the target army's faction.
+[[col:yellow]]Ineffective once full knowledge of the faction’s possessions has been achieved.[[/col]]"</string>
+<string name="agent_actions_localised_action_name_spyhinder_armysubterfuge">Poison Provisions</string>
+<string name="agent_actions_localised_action_name_spyhinder_settlementzeal">Commit Arson</string>
+<string name="agent_actions_localised_action_name_spyhinder_armyauthority">Intercept Orders</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_agentzeal">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by exploiting their fears and weaknesses.</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_provinceauthority">Corrupts local officials, thereby [[col:green]]diminishing tax rates[[/col]]. The disruptions in government also leaves local settlements [[col:green]]vulnerable to authoritarian agent actions[[/col]].</string>
+<string name="agent_actions_localised_action_name_championhinder_agentzeal">Coercion</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_agentauthority">Persuasion</string>
+<string name="agent_actions_localised_action_description_spyhinder_agentsubterfuge">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by exploiting to their greed and vanity.</string>
+<string name="agent_actions_localised_action_description_championhinder_armyzeal">"[[col:green]]Inflicts considerable damage[[/col]] against a specific unit in the target army.
+[[col:yellow]]Units cannot be completely destroyed in an assault.[[/col]]"</string>
+<string name="agent_actions_localised_action_name_spyhinder_agentsubterfuge">Temptation</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_armyzeal">"[[col:green]]Reduces the zeal[[/col]] of the target army's general.
+[[col:yellow]]General attributes may not be reduced below 1.[[/col]]"</string>
+<string name="agent_actions_localised_action_name_championhinder_armyzeal">Assault Patrol</string>
+<string name="agent_actions_localised_action_description_spyhinder_agentauthority">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by appealing to their sense of reason.</string>
+<string name="agent_actions_localised_action_name_championassist_armyzeal">Military Training</string>
+<string name="agent_actions_localised_action_description_championassist_armyzeal">[[col:green]]Increases the zeal[[/col]] of the parent army's general and progressively [[col:green]]increases the experience[[/col]] of all its units.</string>
+<string name="agent_actions_localised_action_name_championhinder_agentsubterfuge">Temptation</string>
+<string name="agent_actions_localised_action_name_dignitarypassive_abilityauthority">Culture</string>
+<string name="agent_actions_localised_action_description_championhinder_characterauthority">Challenges the target character to a “fair and honourable” [[col:green]]fight to the death[[/col]].</string>
+<string name="agent_actions_localised_action_description_spyhinder_settlementzeal">Causes [[col:green]]major damage[[/col]] to a single building in the target settlement.</string>
+<string name="agent_actions_localised_action_description_spyhinder_armysubterfuge">"Inflicts [[col:green]]minor damage[[/col]] upon all units in the target army.
+[[col:yellow]]Units cannot be completely destroyed by poisoning.[[/col]]"</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_agentsubterfuge">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by exploiting to their greed and vanity.</string>
+<string name="agent_actions_localised_action_name_championhinder_characterauthority">Single Combat</string>
+<string name="agent_actions_localised_action_description_dignitarypassive_abilityauthority">"Gradually [[col:green]]spreads your culture[[/col]] throughout the local province.
+[[col:yellow]]Ineffective where your culture is already dominant.[[/col]]"</string>
+<string name="agent_actions_localised_action_description_spyassist_armysubterfuge">[[col:green]]Increases the cunning[[/col]] of the parent army's general whilst helping to [[col:green]]protect it against all enemy agent actions[[/col]].</string>
+<string name="agent_actions_localised_action_name_spyhinder_settlementsubterfuge">Poison Wells</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_armysubterfuge">Mislead Command</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_settlementzeal">Cultural Propaganda</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_agentsubterfuge">Temptation</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_characterauthority">Hire Assassins</string>
+<string name="agent_actions_localised_action_description_spyassist_provincesubterfuge">Establishes a local spy network, improving the [[col:green]]chance of detecting hidden agents and armies[[/col]] in the area whilst [[col:green]]protecting local settlements from cunning agent actions[[/col]].</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_settlementauthority">Spread Cultural Tension</string>
+<string name="agent_actions_localised_action_name_championhinder_settlementzeal">Assault Garrison</string>
+<string name="agent_actions_localised_action_name_championhinder_armysubterfuge">Harass</string>
+<string name="agent_actions_localised_action_name_spyhinder_charactersubterfuge">Poison</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_settlementauthority">"[[col:green]]Increases public order penalties[[/col]] from foreign cultures in the target province.
+[[col:yellow]]Ineffective where there are no foreign cultures present.[[/col]]"</string>
+<string name="agent_actions_localised_action_name_championhinder_settlementsubterfuge">Raid</string>
+<string name="agent_actions_localised_action_description_championhinder_provincezeal">Wreaks [[col:green]]despair amongst the populace[[/col]] with small-scale military actions. The struggle to maintain order also leaves local settlements [[col:green]]vulnerable to zealous agent actions[[/col]].</string>
+<string name="agent_actions_localised_action_description_spyhinder_characterauthority">[[col:green]]Kills the target[[/col]] character by manipulating somebody close to them.</string>
+<string name="agent_actions_localised_action_name_championhinder_settlementauthority">Rally Slaves</string>
+<string name="agent_actions_localised_action_name_championhinder_armyauthority">Show of Force</string>
+<string name="agent_actions_localised_action_description_championhinder_settlementzeal">"Inflicts [[col:green]]major damage[[/col]] upon a single local garrison unit in the target settlement.
+[[col:yellow]]Units cannot be completely destroyed in an assault.[[/col]]"</string>
+<string name="agent_actions_localised_action_description_championhinder_armysubterfuge">[[col:green]]Impedes the melee and ranged combat[[/col]] potential of all units in the target army.</string>
+<string name="agent_actions_localised_action_description_spyhinder_charactersubterfuge">[[col:green]]Kills the target[[/col]] character by tainting their food or drink.</string>
+<string name="agent_actions_localised_action_name_championhinder_provincezeal">Guerrilla Action</string>
+<string name="agent_actions_localised_action_description_championhinder_settlementsubterfuge">Causes [[col:green]]minor damage[[/col]] across the target settlement and reduces the local slave population.</string>
+<string name="agent_actions_localised_action_description_spyhinder_provincesubterfuge">Establishes a local spy network, improving the [[col:green]]chance of detecting hidden agents and armies[[/col]] in the area whilst leaving local settlements [[col:green]]vulnerable to cunning agent actions[[/col]].</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_settlementsubterfuge">[[col:green]]Impedes commerce[[/col]] in the target settlement.</string>
+<string name="agent_actions_localised_action_name_championassist_provincezeal">Military Fervour</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_charactersubterfuge">Betrayal</string>
+<string name="agent_actions_localised_action_description_championhinder_agentauthority">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by appealing to their sense of reason.</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_charactersubterfuge">[[col:green]]Kills the target[[/col]] character after betraying their trust.</string>
+<string name="agent_actions_localised_action_description_championassist_provincezeal">Brings word of glorious battles and great victories, thereby [[col:green]]inspiring the local populace[[/col]]. This rise in military fervour also helps [[col:green]]protect local settlements from zealous agent actions[[/col]].</string>
+<string name="agent_actions_localised_action_name_spyhinder_settlementauthority">Incite Unrest</string>
+<string name="agent_actions_localised_action_name_championhinder_charactersubterfuge">Marksmanship</string>
+<string name="agent_actions_localised_action_name_spypassive_abilitysubterfuge">Infiltration</string>
+<string name="agent_actions_localised_action_description_spyhinder_settlementauthority">[[col:green]]Spreads unhappiness[[/col]] in the target settlement, potentially driving the population to revolt.</string>
+<string name="agent_actions_localised_action_name_spyhinder_armyzeal">Wreck Baggage Train</string>
+<string name="agent_actions_localised_action_name_championhinder_characterzeal">Slaughter</string>
+<string name="agent_actions_localised_action_name_championpassive_abilityzeal">Adventuring</string>
+<string name="agent_actions_localised_action_name_championhinder_agentauthority">Persuasion</string>
+<string name="agent_actions_localised_action_description_championpassive_abilityzeal">Acquires a [[col:green]]small amount of wealth[[/col]], increasing as the champion wanders further from friendly territory.</string>
+<string name="agent_actions_localised_action_description_championhinder_armyauthority">[[col:green]]Reduces the morale and charge bonus[[/col]] of all units in the target army.</string>
+<string name="agent_actions_localised_action_name_spyhinder_characterauthority">Solicit Traitor</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_agentauthority">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by appealing to their sense of reason.</string>
+<string name="agent_actions_localised_action_name_spyhinder_provincesubterfuge">Intelligence</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_settlementsubterfuge">Buy-off Merchants</string>
+<string name="agent_actions_localised_action_name_dignitaryassist_armyauthority">Military Administration</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_characterzeal">[[col:green]]Kills the target[[/col]] character in self-defence, having coaxed them into attacking.</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_characterzeal">Provocation</string>
+<string name="agent_actions_localised_action_name_spyassist_provincesubterfuge">Counter-intelligence</string>
+<string name="agent_actions_localised_action_description_dignitaryassist_armyauthority">[[col:green]]Increases the authority[[/col]] of the parent army's general and [[col:green]]reduces upkeep costs[[/col]].</string>
+<string name="agent_actions_localised_action_description_spyhinder_agentzeal">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by exploiting their fears and weaknesses.</string>
+<string name="agent_actions_localised_action_description_championhinder_characterzeal">[[col:green]]Kills the target[[/col]] character through swift and merciless brutality.</string>
+<string name="agent_actions_localised_action_description_spypassive_abilitysubterfuge">Allows [[col:green]]covert movement[[/col]] about the campaign map, unseen unless spotted by keen-eyed rivals.</string>
+<string name="agent_actions_localised_action_description_championhinder_agentsubterfuge">Manipulates the target agent into [[col:green]]joining your cause[[/col]] by exploiting to their greed and vanity.</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_armyauthority">"[[col:green]]Reduces the authority[[/col]] of the target army's general.
+[[col:yellow]]General attributes may not be reduced below 1.[[/col]]"</string>
+<string name="agent_actions_localised_action_name_spyhinder_agentzeal">Coercion</string>
+<string name="agent_actions_localised_action_name_dignitaryhinder_armyauthority">Undermine Authority</string>
+<string name="agent_actions_localised_action_description_spyhinder_settlementsubterfuge">"Inflicts [[col:green]]minor damage[[/col]] upon all local garrison units in the target settlement.
+[[col:yellow]]Units cannot be completely destroyed by poisoning.[[/col]]"</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_armysubterfuge">"[[col:green]]Reduces the cunning[[/col]] of the target army's general.
+[[col:yellow]]General attributes may not be reduced below 1.[[/col]]"</string>
+<string name="agent_actions_localised_action_description_dignitaryhinder_settlementzeal">"Zealously [[col:green]]spreads  your culture[[/col]] within the target province.
+[[col:yellow]]Ineffective where your culture is already dominant.[[/col]]"</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>
