@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_transfer_units">Right-click to transfer</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_major_settlement_port_unoccupied_self">A port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_minor_settlement_port_unoccupied_self">A port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_sea_region">Sea Region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_army_cannot_embed_agent_accompanied">"This army is being accompanied by another agent.
+
+Armies can only accomodate a single agent."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_navy_self">"Your fleet 
+
+Can fight naval battles, provide escort for transports, blockade and capture enemy coastal settlements."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_army_self">[[rgba:255:255:0:255]]Your army led by: %S[[/rgba:255:255:0:255]]||Can capture and defend settlements or engage other armies.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_hostile_sea_region">Hostile Sea Region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inspect_must_break_siege">"Left-click to select.
+Must break siege first."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_no_replenishment">[[col:red]]Fleets cannot replenish in foreign or hostile waters![[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_no_access">[[col:yellow]]Trespassing may have diplomatic repercussions![[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_sea_trade_route_self">A naval trade route</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_settlement_siege_left_clk_select">"Right-click to attack
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_settlement_under_blockade">[[col:yellow]]The settlement is under blockade.[[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_trade_route_self">Your trade route</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_garrison_port">Right-click to garrison</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_must_break_siege">"Left-click to select.
+Must break siege first."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_hostile_sea_region_self">No replenishment or recruitment available.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_character_left_clk_select">"Right-click to act
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_disembark_at_coast">Right-click to disembark at the closest landing site.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_navy_escort_self">Your fleet and the escorted tranports</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inspect_right_clk_move_to_coast">"Left-click to inspect.
+Right click to move to the closest landing site."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_sea_region_self">Sea region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_major_settlement_self">A major settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_minor_settlement_self">A settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_diplomatic_impact_attack">[[col:yellow]]Attacking foreign assets is an act of war![[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_must_break_siege">Must break siege first.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_admiral">A fleet, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_general">An army, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_general_on_sea">Your transports, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_general">Enemy army, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_admiral">Enemy fleet, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_character">Right-click to act</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_agent">Your %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select">Left-click to select</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_garrison_port_left_clk_select">"Right-click to garrison the port
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_diplomatic_impact_action">[[col:yellow]]Action against foreign assets may have diplomatic repercussions![[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_agent">Enemy %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inspect_right_declare_war">"Right-click to declare war
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_settlement_siege">Right-click to attack</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_besieged">This settlement is already besieged.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_army">Right-click to act</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_minor_settlement_port_occupied_self">Your port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_sea_trade_route_self">"Enemy naval trade-route
+
+Use a fleet to raid its goods."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_agent_self">Your %S||Good for disrupting enemy armies and settlements, or to eliminate their agents.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_settlement_left_clk_select">"Right-click to act
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_navy_left_clk_select_inspection">"Right-click to attack
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_port_settlement_left_clk_select">"Right-click to attack
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_blockaded">This settlement is already blockaded.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_navy_transport_self">"Your transports 
+
+Vulnerable to fleets. Can disembark onto land or directly attack coastal settlements at ports."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_navy_self">"Enemy navy
+
+Threat to your transports. Use one of your fleets to eliminate this threat."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_army_self">"Enemy army
+
+Use one of your armies to eliminate this threat."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_inspection">Left-click to inspect</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_agent_cannot_act_own_settlement">Agents cannot act against their own settlements.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_major_settlement_port_occupied_self">Your major port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_cannot_move_stance">[[col:red]]You cannot move in your current stance![[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_minor_settlement">A minor settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_region_self">"Enemy region
+
+Capture the settlement to claim it for yourself."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_port_settlement">Right-click to attack</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_character_left_clk_select_inspection">"Right-click to act
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_general_on_sea">Enemy transports, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_settlement">Right-click to act</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_agent_self">"Enemy agent
+
+Use one of your agents to eliminate this threat."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_army_left_clk_select">"Right-click to act
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_major_settlement_port_occupied_self">"Enemy port settlement
+
+Use one of your fleets to blockade and capture it."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_contested_sea_region_self">Replenishment or recruitment only happens at your ports.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_navy_transport_self">"Enemy transports
+
+Can land on your beaches. Use one of your fleets to eliminate this threat."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_army_left_clk_select_inspection">"Right-click to attack
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_cannot_garrison_already_garrisoned">Settlement is already being garrisoned</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_port_settlement_siege_left_clk_select_inspection">"Right-click to attack
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_besieged_non_enemy">"This settlement is already besieged.
+[[col:yellow]]Attacking foreign assets is an act of war![[/col]]"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_right_clk_move_to_coast">"Left-click to select.
+Right-click to move to the closest landing site."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_embark">Right-click to embark</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_province_capital">A provincial capital</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_minor_settlement_port_occupied_self">"Enemy port settlement
+
+Use one of your fleets to capture it."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_contested_sea_region">Contested Sea Region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_minor_settlement">Your minor settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_navy_escort_self">"Enemy navy escorting transports
+
+Threat to your transports. Use one of your fleets to eliminate this threat."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_garrison_settlement">Right-click to garrison</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome_2_tltip_left_clk_select_right_clk_disembark_at_coast">"Left-click to select.
+Right click to disembark."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_trade_route_self">"Enemy trade-route
+
+Use an army to raid its goods."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_major_settlement_port_occupied_self">A port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_transfer_units_left_clk_select_army">"Right-click to transfer
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_army_left_clk_select">"Right-click to attack
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_navy_transport_self">A transport fleet</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_port_settlement_siege_left_clk_select">"Right-click to attack
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_major_settlement_port_unoccupied_self">"Enemy port settlement
+
+Use one of your fleets to blockade and capture it."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_minor_settlement_port_unoccupied_self">"Enemy port settlement
+
+Use one of your fleets to capture it."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_province">Province: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_general_on_sea">Transports, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_navy">Right-click to attack</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_get_escorted_left_clk_select">"Right-click to accompany
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_warning_port_occupied">"Left-click to select.
+The port is already occupied."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_major_settlement_self">"Enemy major settlement
+
+Use one of your armies to lay siege and capture it."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_enemy_minor_settlement_self">"Enemy settlement
+
+Use one of your armies to capture it."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_minor_settlement_port_occupied_self">A port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_army_left_clk_select_inspection">"Right-click to act
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_port_settlement_siege">Right-click to attack</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_port_settlement_left_clk_select_inspection">"Right-click to attack the port
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome_2_tltip_left_ck_inspect_right_clk_disembark_at_coast">"Left-click to inspect.
+Right click to disembark and attack."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_province_capital">Your provincial capital</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_army">Right-click to attack</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_garrison_settlement_left_clk_select">"Right-click to garrison the settlement
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_settlement_siege_left_clk_select_inspection">"Right-click to attack
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_move">Right-click to move</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_get_escorted">Right-click to accompany fleet</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inscpect_must_break_blockade">"Left-click to inspect.
+Must break blockade first."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_transfer_units_left_clk_select_navy">"Right-click to transfer
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_navy_left_clk_select">"Right-click to attack
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_region_self">A region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_navy_escort_self">A fleet escorting transports.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_major_settlement_self">You major settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_minor_settlement_self">Your settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_settlement_left_clk_select">"Right-click to attack
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_trade_route_self">A trade route</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_port_occupied">The port is already occupied.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_sea_trade_route_self">Your naval trade route</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_blockaded_non_enemy">"This settlement is already blockaded.
+[[col:yellow]]Attacking foreign assets is an act of war![[/col]]"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_region_self">Your region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_embed_agent_left_clk_select">"Right-click to accompany
+Left-click to select"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_major_settlement_port_unoccupied_self">Your major port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_minor_settlement_port_unoccupied_self">Your port settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_must_break_blockade">"Left-click to select.
+Must break blockade first."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_move_to_coast">Right click to move to the closest landing site.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_shared_sea_region">Shared Sea Region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_own_sea_region">Friendly Sea Region</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_army_self">An army</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_navy_self">A fleet</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_cannot_move">Cannot move here.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_minor_settlement">Enemy minor settlement</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_cannot_act_besieged_non_enemy">You cannot act against besieged settlements.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_disembark">Right-click to disembark</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_settlement">Right-click to attack</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_cannot_act_besieged">You cannot act against besieged settlements.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_agent">%S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_settlement_left_clk_select_inspection">"Right-click to act
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_own_sea_region_self">"Sea region controlled by you
+
+Can recruit and replenish."</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_settlement_under_siege">[[col:yellow]]The settlement is under siege.[[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_must_break_blockade">Must break blockade first.</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_agent_self">An agent</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_region_allied_self">A region that belongs to your ally</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_admiral">Your fleet, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_province_capital">Enemy provincial capital</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_embed_agent">Right-click to accompany</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_general">Your army, led by: %S</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_cannot_attack_stance">[[col:red]]You cannot attack in your current stance![[/col]]</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_settlement_left_clk_select_inspection">"Right-click to attack the settlement
+Left-click to inspect"</string>
+<string name="campaign_map_tooltip_texts_tooltip_text_rome2_tltip_non_player_region_without_access_self">A region without military access</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

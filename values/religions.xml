@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="religions_onscreen_rom_religion_punic">Punic</string>
+<string name="religions_onscreen_rom_religion_latin">Latin</string>
+<string name="religions_onscreen_rom_religion_celtic">Celtic</string>
+<string name="religions_onscreen_rom_religion_hellenic">Hellenic</string>
+<string name="religions_onscreen_rom_religion_germanic">Germanic</string>
+<string name="religions_onscreen_rom_religion_nomadic">Nomadic</string>
+<string name="religions_onscreen_rom_religion_eastern">Eastern</string>
+<string name="religions_onscreen_rom_religion_african_arabian">Desert Nomadic</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

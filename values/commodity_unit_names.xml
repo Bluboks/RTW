@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="commodity_unit_names_plural_barrels">Barrels</string>
+<string name="commodity_unit_names_singular_logs">Log</string>
+<string name="commodity_unit_names_plural_loaves">Loaves</string>
+<string name="commodity_unit_names_singular_chests">Chest</string>
+<string name="commodity_unit_names_plural_chunks">Chunks</string>
+<string name="commodity_unit_names_singular_pounds">Pound</string>
+<string name="commodity_unit_names_plural_bundle">Bundles</string>
+<string name="commodity_unit_names_plural_hundreds">Hundreds</string>
+<string name="commodity_unit_names_plural_sextarius">Sextarius</string>
+<string name="commodity_unit_names_plural_kilnful">kilnful</string>
+<string name="commodity_unit_names_singular_bundle">Bundle</string>
+<string name="commodity_unit_names_plural_amphora">Amphorae</string>
+<string name="commodity_unit_names_plural_pounds">Pounds</string>
+<string name="commodity_unit_names_singular_cask">Cask</string>
+<string name="commodity_unit_names_plural_chests">Chests</string>
+<string name="commodity_unit_names_singular_loaves">Loaf</string>
+<string name="commodity_unit_names_singular_chunks">Chunk</string>
+<string name="commodity_unit_names_singular_bales">Bale</string>
+<string name="commodity_unit_names_singular_ounce">Ounce</string>
+<string name="commodity_unit_names_singular_slabs">Slab</string>
+<string name="commodity_unit_names_singular_kilnful">kilnful</string>
+<string name="commodity_unit_names_singular_ingot">Ingot</string>
+<string name="commodity_unit_names_singular_amphora">Amphora</string>
+<string name="commodity_unit_names_singular_tusks">Tusk</string>
+<string name="commodity_unit_names_singular_sacks">Sack</string>
+<string name="commodity_unit_names_singular_barrels">Barrel</string>
+<string name="commodity_unit_names_singular_sextarius">Sextarius</string>
+<string name="commodity_unit_names_plural_cask">Casks</string>
+<string name="commodity_unit_names_singular_hundreds">Hundred</string>
+<string name="commodity_unit_names_plural_ounce">Ounces</string>
+<string name="commodity_unit_names_plural_slabs">Slabs</string>
+<string name="commodity_unit_names_plural_bales">Bales</string>
+<string name="commodity_unit_names_plural_sacks">Sacks</string>
+<string name="commodity_unit_names_plural_tusks">Tusks</string>
+<string name="commodity_unit_names_plural_logs">Logs</string>
+<string name="commodity_unit_names_plural_ingot">Ingots</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

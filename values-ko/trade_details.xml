@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="trade_details_onscreen_text_route_age">"Long-term trading partner.
+Trading with a country for a long time gradually increases the value of your trade route. Each turn, a small stability bonus is added to your income from each route. If the trade agreement is cancelled, this bonus income is lost"</string>
+<string name="trade_details_onscreen_text_other_goods">Other goods</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

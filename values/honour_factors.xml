@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="honour_factors_localised_positive_name_base">text_rejected</string>
+<string name="honour_factors_localised_negative_name_dishonouring_alliance">text_rejected</string>
+<string name="honour_factors_localised_positive_name_dishonouring_alliance">text_rejected</string>
+<string name="honour_factors_localised_positive_name_looting_city">text_rejected</string>
+<string name="honour_factors_localised_positive_name_bonus_values">text_rejected</string>
+<string name="honour_factors_localised_negative_name_looting_city">text_rejected</string>
+<string name="honour_factors_localised_negative_name_bonus_values">text_rejected</string>
+<string name="honour_factors_localised_negative_name_assassination_attempt">text_rejected</string>
+<string name="honour_factors_localised_positive_name_assassination_attempt">text_rejected</string>
+<string name="honour_factors_localised_negative_name_base">text_rejected</string>
+<string name="honour_factors_localised_positive_name_threatening_with_empty_words">text_rejected</string>
+<string name="honour_factors_localised_negative_name_threatening_with_empty_words">text_rejected</string>
+<string name="honour_factors_localised_positive_name_bankruptcy">text_rejected</string>
+<string name="honour_factors_localised_negative_name_bankruptcy">text_rejected</string>
+<string name="honour_factors_localised_positive_name_being_christian">text_rejected</string>
+<string name="honour_factors_localised_negative_name_being_christian">text_rejected</string>
+<string name="honour_factors_localised_positive_name_acquired_vassal">text_rejected</string>
+<string name="honour_factors_localised_positive_name_battles">text_rejected</string>
+<string name="honour_factors_localised_positive_name_payload">text_rejected</string>
+<string name="honour_factors_localised_negative_name_acquired_vassal">text_rejected</string>
+<string name="honour_factors_localised_negative_name_battles">text_rejected</string>
+<string name="honour_factors_localised_positive_name_becoming_christian">text_rejected</string>
+<string name="honour_factors_localised_negative_name_payload">text_rejected</string>
+<string name="honour_factors_localised_negative_name_becoming_christian">text_rejected</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

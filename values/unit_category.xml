@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="unit_category_localised_name_cavalry">Cavalry</string>
+<string name="unit_category_localised_name_elephants">Elephants</string>
+<string name="unit_category_localised_name_artillery">Siege Engine</string>
+<string name="unit_category_localised_name_medium_ship">Medium Ship</string>
+<string name="unit_category_localised_name_light_ship">Light Ship</string>
+<string name="unit_category_localised_name_heavy_ship">Heavy Ship</string>
+<string name="unit_category_localised_name_inf_melee">Melee Infantry</string>
+<string name="unit_category_localised_name_inf_ranged">Missile Infantry</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+<string name="government_types_onscreen_gov_jap_shogunate">text_rejected</string>
+<string name="government_types_onscreen_gov_empire">text_rejected</string>
+<string name="government_types_onscreen_gov_constitutional_monarchy">text_rejected</string>
+<string name="government_types_onscreen_gov_absolute_monarchy">text_rejected</string>
+<string name="government_types_onscreen_gov_jap_clan">text_rejected</string>
+<string name="government_types_onscreen_gov_republic">text_rejected</string>
+<string name="nothing_nothing">nothing_nothing</string>
+</resource>
